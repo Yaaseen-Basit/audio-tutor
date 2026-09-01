@@ -1,14 +1,17 @@
 # AudioTutor-Agent: Multimodal Agentic Sonification for STEM Accessibility
+**Author:** Yaaseen Basit
 
 > An interactive research prototype exploring how agentic tool-calling, multimodal AI, real-time Web Audio synthesis, and accessible interaction design can translate visual and algorithmic STEM representations into spatialized audio experiences for blind and low-vision learners.
 
 ---
 
-## 🎧 Prototype
+##  Prototype
+<p align="center">
+  <img src="docs/play-audio-tutor-agent.png" width="90%" alt="AudioTutor-Agent interactive prototype">
+</p>
 
 <p align="center">
-  <img src="docs/play-audio-tutor-agent.png" width="48%" alt="AudioTutor-Agent interactive prototype">
-  <img src="docs/ybs_audiotutorframeworks.png" width="48%" alt="AudioTutor-Agent system architecture">
+  <img src="docs/ybs_audiotutorframeworks.png" width="90%" alt="AudioTutor-Agent system architecture">
 </p>
 
 *AudioTutor-Agent: multimodal STEM input, agentic planning, constrained tool execution, and spatialized sonification.*
@@ -61,7 +64,7 @@ Accessibility
 Assistive technology
 STEM education
 ⚡ Core Features
-🤖 Agentic Semantic Planning
+Agentic Semantic Planning
 
 The prototype uses a multimodal foundation model to analyze STEM inputs such as:
 
@@ -276,3 +279,12 @@ A central design principle of AudioTutor-Agent is the separation between AI reas
                  Execution
 
 This architecture makes the interaction layer more predictable and easier to test independently from the foundation model.
+---
+
+## 👤 Author
+
+**Yaaseen Basit**
+
+Research-oriented software engineer and educator interested in:
+
+**AI × Human-AI Interaction × Education × Accessibility × Web Technologies**
